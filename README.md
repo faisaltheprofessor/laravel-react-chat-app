@@ -12,3 +12,11 @@
 
 ## Install broadcasting
 `php artisan install:broadcasting`  install laravel reverb and node dependencies
+## Tables
+    - users
+    - groups
+    - user_group
+    - conversations
+    - messages
+    - attachments
+
